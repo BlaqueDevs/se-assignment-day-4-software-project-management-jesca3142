@@ -2,6 +2,20 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18669581&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+ Timely delivery is  crucial in software project management because ;
+ Builds companies reputation- timely delivery of projects to clients makes good company reputation
+ Budget control- delivering projects on time reduces additional costs
+ Resource management- working on each project at a time makes the company work swiftly with more assigned projects
+ Competition in market- delivering projects on time make the company get more job oppotunities
+ Client satisfaction- this opens more channels for  refferals 
+ 
+how can project managers ensure that deadlines are met;
+Use of agile methologies
+effective communications like meetings to track on the project progress
+progressive monitoring and evaluation of the project
+project planning is key- ensure you have a timeline on how the project needs to be done.
+ resource alocation- ensure that the tasks are given to the qualified personels
+
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
