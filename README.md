@@ -17,6 +17,23 @@ project planning is key- ensure you have a timeline on how the project needs to 
  resource alocation- ensure that the tasks are given to the qualified personels
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+How  effective cost control contribute to the success of a software project;
+prevents overspending-cost control ensures that you work according to your budget.
+ensures stabilities-makes sure that the organization can take on  project without having financial problems.
+improves resource utilization- ensure that the resources allocated are used to the maximum.
+maintains project scoop by ensuring everthing is done according to the plan.
+Gives the stakeholders confidence by managaging financial disciple.
+
+Strategies to be used to prevent budget overruns;
+project planning;plan on the tasks and resourses needed
+risk management-identify potential risks that may encounter
+good communication-ensure there is a smooth communication to the team  about the ongoing project
+resource optimization-ensure the allocated resources are used to the maximum
+use tool that will help in cost contol for example MS project or Jira.
+
+
+
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
