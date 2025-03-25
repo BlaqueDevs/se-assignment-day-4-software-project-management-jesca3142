@@ -78,7 +78,12 @@ Market Competitiveness; Delivering high-quality software that performs well and 
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-
+Clarifies Project Objectives:having a well define scope helps the team set goals and the outcomes they want to archieve
+Helps with Resource and Budget Planning:it is clear to identify what is needed for the project
+Improves Time Management:it is easier to make a schedule and meet deadlines
+risk management;it helps in identifing potential risks and challanges that may be faced 
+A well-defined project scope aligns all stakeholders (clients, team members, and sponsors) with the project’s objectives, deliverables, and timelines.
+ Work Breakdown Structure (WBS)
 
 
 
