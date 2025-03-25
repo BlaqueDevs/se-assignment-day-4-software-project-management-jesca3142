@@ -33,6 +33,29 @@ use tool that will help in cost contol for example MS project or Jira.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
+Waterfall Methodology is a project management method  where each phase must be completed before moving to the next phase  while agile methodologies is a project management method where the project is divided in small units or sprints.
+
+Advantages of waterfall methodologies are;
+it is easy to manage and track progress of the project
+focuses majorly on documentation which is important for future use
+it is easy to allocate resources that are needed for the project
+it is structred in a way that is well understood
+
+Disdvantages of waterfall methodologies are;
+there is risk of miscommunication since what is required for the project is gathered upfront.
+it may take longer to complete a project since one phase should be completed before going on with the next one
+it is late adabtable for change if need be .
+
+Advantages of agile methodologies are;
+flexible for change if needed through the project
+it makes it easier for customers to see the results of the projects since the project is done in sprints.
+testing is done in each sprints making it easier to identify issues and solve them
+
+Disdvantages of agile  methodologies are;
+it needs involment of the customer and if they are not easy accesible it may cause the project to delay 
+since it is not easy to track changes then the cost and resources needed may exceed the required set budget
+with no clear management the project can be chaotic and difficult to manage 
+
 
 
 
